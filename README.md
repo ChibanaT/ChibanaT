@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChibanaT
 - 👀 I’m interested in Computacional Simualtion and AI
-- 🌱 I’m currently learning Computacional Simulation and AI using Python
+- 🌱 I’m currently learning Computacional Simulation and AI using Python/C++
 - 💞️ I’m looking to collaborate on Computacional Simulation Projects
 - 📫 How to reach me :chibana.thiago@gmail.com
 
